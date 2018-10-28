@@ -263,3 +263,7 @@
 * [Vim Básico](http://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas
 * [Vim Médio](http://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas
 * [Vim para Noobs](http://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza
+
+###VueJS
+
+* [Vue.js na prática - Bônus - Vuex, VueRouter e Firebase] (http://samples.leanpub.com/livro-vue-sample.pdf) - Daniel Schmitz (PDF)
